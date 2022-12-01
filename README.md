@@ -1,6 +1,8 @@
 # Accounts Service Backend
-Accounts service handles authentication, registration, forgotten password, and more.
+Accounts service handles authentication, registration, forgotten password, and more.  
+Recommended this service is not publicly available. Only serve accounts-service-frontend.
 
+## Set up
 ```bash
 Customize your .env file.
 $ cp ./.env.example ./.env
@@ -8,7 +10,7 @@ Launch with docker-compose on development environment.
 $ docker-compose -f dev.yml up --build -d
 ```
 
-## EndPoint
+## Endpoint
 ### GET /healthcheck/v1/ping
 - Params
   - None
@@ -16,7 +18,7 @@ $ docker-compose -f dev.yml up --build -d
   - 200
 	```json
 	{
-    	  "message": "OK"
+  	"message": "OK"
 	}
 	```
 

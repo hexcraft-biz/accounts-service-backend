@@ -19,7 +19,7 @@ $ docker-compose -f dev.yml up --build -d
 #### GET /healthcheck/v1/ping
 - Params
   - None
-- Resonse
+- Response
   - 200
 	```json
 	{

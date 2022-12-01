@@ -2,6 +2,10 @@
 Accounts service handles authentication, registration, forgotten password, and more.  
 Recommend this service is not publicly available. Only serve accounts-service-frontend.
 
+# TODO List
+- [ ] Enhanced password requirements.
+- [ ] System email supports multi languages.
+
 ## Set up
 ```bash
 Customize your .env file.

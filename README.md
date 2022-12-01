@@ -1,6 +1,6 @@
 # Accounts Service Backend
 Accounts service handles authentication, registration, forgotten password, and more.  
-Recommended this service is not publicly available. Only serve accounts-service-frontend.
+Recommend this service is not publicly available. Only serve accounts-service-frontend.
 
 ## Set up
 ```bash

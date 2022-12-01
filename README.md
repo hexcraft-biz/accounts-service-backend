@@ -15,7 +15,8 @@ $ docker-compose -f dev.yml up --build -d
 ```
 
 ## Endpoint
-### GET /healthcheck/v1/ping
+### HealthCheck
+#### GET /healthcheck/v1/ping
 - Params
   - None
 - Resonse

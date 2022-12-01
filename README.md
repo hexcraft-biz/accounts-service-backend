@@ -23,7 +23,7 @@ $ docker-compose -f dev.yml up --build -d
   - 200
 	```json
 	{
-  	"message": "OK"
+  	  "message": "OK"
 	}
 	```
 

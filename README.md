@@ -5,6 +5,8 @@ Recommend this service is not publicly available. Only serve accounts-service-fr
 # TODO List
 - [ ] Enhanced password requirements.
 - [ ] System email supports multi languages.
+- [ ] Account Level.
+- [ ] Account 2-Step Verification
 
 ## Set up
 ```bash
